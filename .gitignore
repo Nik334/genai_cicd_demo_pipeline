@@ -2,3 +2,6 @@
 gcp_key.json
 .env
 .idea
+
+.DS_Store
+ .github/.DS_Store
